@@ -1,3 +1,4 @@
+//The program uses file I/O to store and retrieve user credentials from a text file "users.txt"
 #include <iostream>
 #include <fstream>
 #include <string>
